@@ -1,0 +1,9 @@
+@import url(/css/global.css);
+@import url(/css/font.css);
+@import url(/css/navbar.css);
+
+@import url(/css/page/index.css);
+@import url(/css/page/discover.css);
+@import url(/css/page/product.css);
+
+@import url(/css/background/background.css);

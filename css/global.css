@@ -1,0 +1,62 @@
+body {
+  background-color: #02050e;
+  font-family: "Poppins", sans-serif;
+}
+
+.page-content {
+  margin-top: 80px;
+}
+
+footer {
+  margin-top: 150px;
+}
+
+.card-footer {
+  background-color: #02050e;
+}
+
+.logo-footer {
+  margin-top: 50px;
+}
+
+.footer-text {
+  color: #adb9c7;
+  font-size: 14px;
+  font-weight: 400;
+  margin-top: 20px;
+}
+
+.footer-title {
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.jarak {
+  margin-top: 30px;
+}
+
+.list-footer {
+  color: #adb9c7;
+  font-size: 14px;
+  font-weight: 400;
+  text-decoration: none;
+  margin-left: 50px;
+}
+
+.img-fb {
+  width: 30px;
+  margin-left: 50px;
+}
+
+.img-ig {
+  width: 30px;
+  margin-left: 10px;
+}
+
+.img-tw {
+  width: 30px;
+  margin-left: 10px;
+}

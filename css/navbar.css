@@ -1,0 +1,20 @@
+.text-navbar {
+  color: #adb9c7;
+}
+
+.active {
+  color: #fff;
+   border-bottom: 2px solid #1e50ff;
+}
+
+.text-navbar:hover {
+  color: white;
+}
+
+.btn-outline-primary {
+  color: white;
+  border-color: #1e50ff;
+  width: 175px;
+  border-radius: 12px;
+  font-size: 14px;
+}

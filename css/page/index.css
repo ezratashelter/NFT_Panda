@@ -1,0 +1,266 @@
+/* introduction */
+.text-heading {
+  font-size: 54px;
+  font-weight: 700;
+  color: white;
+}
+
+.text-sub {
+  font-size: 14px;
+  font-weight: 400;
+  width: 500px;
+  color: #adb9c7;
+}
+
+.btn-start {
+  margin-top: 30px;
+  background-color: #1e50ff;
+  border-radius: 12px;
+  width: 175px;
+  height: 40px;
+  font-size: 14px;
+}
+
+.img-poster {
+  width: 500px;
+}
+
+/* partners */
+.img-partner {
+  margin-top: 80px;
+}
+
+/* NFTs */
+.text-title {
+  margin-top: 150px;
+  color: white;
+  font-size: 38px;
+  font-weight: 700;
+}
+
+.img-placeholder {
+  border-radius: 100%;
+  width: 60px;
+  margin-top: 40px;
+}
+
+.card-nft {
+  height: 320px;
+  background-color: #272d37;
+  border-radius: 16px;
+  margin-top: 40px;
+}
+
+.card-nft:hover {
+  border: 2px solid white;
+}
+
+.card-title {
+  margin-top: 35px;
+  font-size: 20px;
+  font-weight: 700;
+  color: white;
+}
+
+.card-isi {
+  margin-top: 24px;
+  font-size: 14px;
+  color: #adb9c7;
+}
+
+/* Auctions */
+.btn-view {
+  margin-top: 150px;
+}
+
+.btn-view-more {
+  margin-top: 60px;
+  height: 50px;
+}
+
+.btn-more {
+  width: 100px;
+  margin-top: 150px;
+  margin-right: -20px;
+  background: rgba(30, 80, 255, 0.1);
+  border-radius: 8px;
+}
+
+.card-auctions {
+  width: 360px;
+  height: 520px;
+  background-color: #272d37;
+  border-radius: 20px;
+  margin-top: 40px;
+}
+
+.img-auctions {
+  width: 320px;
+  margin: 20px;
+}
+
+.card-judul {
+  font-size: 16px;
+  color: white;
+  font-weight: 700;
+  margin-left: 20px;
+}
+
+.btn-bsc {
+  margin-right: 20px;
+  width: 60px;
+  height: 30px;
+  font-size: 12px;
+  font-weight: 800;
+  background-color: #1e50ff;
+}
+
+.img-creator {
+  width: 55px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.text-creator {
+  margin-top: 26px;
+  margin-left: -40px;
+  margin-right: 20px;
+  font-size: 14px;
+  font-weight: 400;
+  color: #8f9ca9;
+}
+
+.text-name {
+  margin-left: -40px;
+  margin-right: 20px;
+  font-size: 16px;
+  font-weight: 700;
+  color: white;
+}
+
+/* featured */
+.card-featured {
+  width: 260px;
+  height: 390px;
+  background-color: #272d37;
+  border-radius: 16px;
+  margin-top: 40px;
+}
+
+.img-featured {
+  width: 240px;
+  margin: 10px;
+}
+
+.img-profile {
+  border-radius: 100%;
+  width: 100px;
+  margin-top: -20%;
+}
+
+.card-text {
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 15px;
+}
+
+.img-eth {
+  margin-top: 20px;
+}
+
+/* Hot Nfts */
+.img-hot {
+  width: 320px;
+  margin: 20px;
+}
+
+.imgThumb:hover img {
+  filter: blur(10px);
+  -webkit-filter: blur(10px);
+  transition: filter 0.5s;
+}
+
+/* .img-hot:hover {
+  filter: blur(5px);
+  -webkit-filter: blur(5px);
+  transition: filter;
+} */
+
+.imgThumb span {
+  display: none;
+  position: absolute;
+  top: 225px;
+  left: 118px;
+}
+
+.imgThumb:hover span {
+  display: block;
+}
+
+.imgThumb span input [type="button"] {
+  width: 150px;
+  height: 40px;
+  background: #1e50ff;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+}
+
+.btn-pab {
+  width: 150px;
+  height: 40px;
+  background: #1e50ff;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+}
+
+.img-hot:hover span {
+  display: block;
+}
+
+/* CTA */
+.card-cta {
+  background: radial-gradient(
+      151.95% 463.58% at -44.29% -62.34%,
+      rgba(255, 255, 255, 0.3) 0%,
+      rgba(255, 255, 255, 0) 100%
+    )
+    /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+  backdrop-filter: blur(74px);
+  border: 1px solid #1e50ff;
+  border-radius: 16px;
+  margin-top: 150px;
+}
+
+.cta-title {
+  color: white;
+  font-size: 48px;
+  font-weight: 700;
+  margin-top: 50px;
+}
+
+.cta-text {
+  color: white;
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.btn-join {
+  margin-bottom: 50px;
+  background: #1e50ff;
+  border-radius: 12px;
+  font-size: 12px;
+  width: 239px;
+  height: 45px;
+}
+
+#image .imgThumb {
+  width: 300px;
+  margin: 20px;
+}
